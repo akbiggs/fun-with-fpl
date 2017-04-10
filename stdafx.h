@@ -11,4 +11,4 @@
 #include <tchar.h>
 
 // Additional program headers
-#include "fplbase/config.h"
+#include <memory>
